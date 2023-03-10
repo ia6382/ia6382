@@ -2,8 +2,8 @@
 
 <h1 align="center">My Projects</h1>
 
-Click the title for more details.\
-**See the rest on [my Github page](https://github.com/ia6382?tab=repositories).**
+**See the rest on [my Github page](https://github.com/ia6382?tab=repositories).**\
+Click the title for more details.
 
 ___
 
@@ -11,13 +11,13 @@ ___
 * My CS master's thesis
 * An implementation of the seminal multi-agent pathfinding algorithm WHCA* in an open source real-time strategy game engine OpenRA
 * Tests the claims of scientific research that the algorithm is very suitable for use in RTS games
-* As far as I know this is the only implementation of any WHCA*-like algorithm in a real-time game environment
+* As far as I know this is the only working implementation of a multi-agent pathfinding algorithm in a real game environment
 * *C#, LUA, Python, Batch, Git*
 
 ___
 
 [**RTS Game Pathfinding**](https://github.com/ia6382/rts-pathfinding)
-* Implementation and testing of several RTS single-agent pathfinding algorithms in a game environment
+* Implementation and testing of several popular single-agent pathfinding algorithms for RTS games
 * Created a prototype RTS game with ASCII graphics for testing
 * *Python, libtcod*
 
@@ -35,7 +35,7 @@ ___
 [**Mean-shift Kalman Filter Tracker**](https://github.com/ia6382/mean-shift-Kalman-filter-tracker)
 * Implementation of the mean-shift tracking algorithm combined with the Kalman Filter
 * Noticeably improves tracking in scenarios when the target is partially or fully occluded
-* Tested on VOT benchmark sequences
+* Tested on visual object tracking benchmark sequences
 * *Matlab*
 
 ___
@@ -51,14 +51,14 @@ ___ -->
 
 [**Volumetric Data Segmentation**](https://github.com/ia6382/volumetric-data-segmentation)
 * Implementation of the Snake active contour model
-* Automated the segmentation of the mitochondria structures from the volumetric NRRD data of a cell
+* Automated the segmentation of the mitochondria structures from the volumetric data of a cell
 * *Matlab*
 
 ___
 
 [**Path Tracer**](https://github.com/ia6382/path-tracer)
 * A path-tracing framework that iteratively renders a simple scene
-* I implemented the main path tracing function with Next-Event-Estimation and Russian roulette with\
+* I implemented the main path tracing function with Next-Event-Estimation and Russian roulette and\
 three BRDF models: Lambertian, Blinn-Phong and the specular reflection model
 * *C#*
 
@@ -96,7 +96,7 @@ ___ -->
 ___
 
 [**Biomedical Data Processing**](https://github.com/ia6382/biomedical-data-processing)
-* Electrocardiogram signal analysis to detect QRS complex ("heartbeat") in real-time
+* Electrocardiogram signal analysis to detect QRS complex in real-time
 * Three variants of edge detection for CT head scans
 * *Python, NumPy, SciPy, Matplotlib*
 
@@ -141,7 +141,7 @@ ___
 * 3D first-person parkour game
 * Made in a group of four programmers 
 * I made the textures, and the level design and helped with the bugs 
-* *C#, Unity, Adobe Photoshop*
+* *C#, Unity, Adobe Photoshop, Git*
 
 ___ -->
 
@@ -164,7 +164,7 @@ I worked closely with the artists to give them our requirements and integrated t
 * I attended 14 lectures by experienced mentors from the industry on the following topics: game production phases, studio management,\
 game design, idea testing, PR & marketing, prototyping, asset pipeline, vertical slice, analytics, monetization, fundraising, publishing
 * Also learned the basics of 3D modelling in Blender
-* Every lecture came with homework and feedback was given to us by the mentor. 
+* Every lecture came with homework and feedback was given to us by the mentor 
 * Based on my performance I was one of the few who received the certificate of achievement and was invited to \
 give a short presentation on my game projects and my RTS game pathfinding research at the final networking event in person
 
