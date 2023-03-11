@@ -1,13 +1,29 @@
-### Hi there 👋
+## Hello, welcome to my profile 👋
+For landing on this page you gained +5 damage to bugs for the next hour. Good luck.
+010100000111001001100001011010010111001101100101001000000111010001101000011001010010000001101111011011010110111001101001011100110111001101101001011000010110100000100001 :mechanical_arm:
 
-I'm a recent graduate from the University of Ljubljana, where I got my **MSc in computer science**. 
-I am on the lookout for opportunities that will enable me to improve my skills, expand my knowledge and put it to good use on practical and relevant projects.
+## About (me)
 
-During my studies I gained an interest in a variety of fields, namely **computer vision**, **computer graphics** and **AI**. Lately, I am focused on the problem of pathfinding in video games, trying out new approaches in a complex game environment. This was also the subject matter of my [master's thesis](https://github.com/ia6382/OpenRA).\
-I enjoy researching publications, understanding the underlying theory and then programming a solution, which can bring new improvements to the community. 
-You can find a selection of my projects on [my webpage](https://ia6382.github.io/).\
-I am passionate about **game development** as it enables me to translate my CS knowledge into a highly creative and artistic environment. Check out a few games I made so far [here](https://ivan-antesic.itch.io/). 
+:man_student: Recent graduate living in Slovenia. 
 
-Besides gaming I enjoy hiking :sunrise_over_mountains:, history :books: and various handicrafts such as woodworking :deciduous_tree: and blacksmithing :hammer:. I also keep seven very happy chickens in my backyard :chicken:. 
+:scroll: MSc in Computer Science from the University of Ljubljana
 
-If you are interested in my work or anything of the above or maybe you just want to discuss the finer points of 1982's Conan the Barbarian feel free to send me an email at ivan.v.antesic@gmail.com.
+:telescope: Looking for practical and relevant projects to improve my skills and expand my knowledge
+
+Looking for new opportunities to improve my skills and expand my knowledge and put it to good use on practical and relevant projects.
+
+:computer: Interested in computer graphics, computer vision, AI and game development
+
+:seedling: Currently researching pathfinding in RTS games (checkout my [master's thesis project](https://github.com/ia6382/OpenRA#about) on this topic)
+
+:gear: Want to mprove at/learn 3D modelling, figure drawing, Unreal Engine, how to play the flute
+
+:smile: I enjoy :joystick: gaming, :sunrise_over_mountains: hiking, :books: history, :axe: woodworking , :hammer: blacksmithing, :chicken: keeping my pet chickens
+
+<!---:clapper: Favourite movie: cant pick one. Honorable mentions are: 1982's Conan the Barbarian, Legends of the Fall, The Lord of the Rings The Fellowship of the Ring--->
+
+:speech_balloon: Ask me about
+
+:zap: Click here to visit [my home page](https://ia6382.github.io/) and find out more
+
+:mailbox: Reach me at [ivan.v.antesic@gmail.com](mailto:ivan.v.antesic@gmail.com)
