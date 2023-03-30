@@ -11,7 +11,7 @@ For landing on this page you gained +5 damage to bugs for the next hour. Good lu
 
 :telescope: Looking for new opportunities to improve my skills and expand my knowledge
 
-:computer: Interested in computer graphics, computer vision, AI and game development
+:computer: Interested in computer graphics, computer vision, AI and game development ([my itch.io profile](https://ivan-antesic.itch.io/))
 
 :gear: Currently researching pathfinding in RTS games (checkout my [master's thesis project](https://github.com/ia6382/OpenRA#about) on this topic)
 
