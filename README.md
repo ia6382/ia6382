@@ -5,7 +5,7 @@ For landing on this page you gained +5 damage to bugs for the next hour. Good lu
 
 ## About (me)
 
-:man_student: Recent graduate living in Slovenia 
+:office: Software engineer living in Slovenia 
 
 :scroll: MSc in Computer Science from the University of Ljubljana
 
