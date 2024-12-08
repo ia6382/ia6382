@@ -7,9 +7,9 @@ For landing on this page you gained +5 damage to bugs for the next hour. Good lu
 
 :office: Software engineer living in Slovenia 
 
-:scroll: MSc in Computer Science from the University of Ljubljana
-
 :hammer_and_wrench: Employed in a full-stack role
+
+:scroll: MSc in Computer Science from the University of Ljubljana
 
 :telescope: Looking for new opportunities to improve my skills and expand my knowledge
 
