@@ -9,6 +9,8 @@ For landing on this page you gained +5 damage to bugs for the next hour. Good lu
 
 :scroll: MSc in Computer Science from the University of Ljubljana
 
+:hammer_and_wrench: Currently employed in a full-stack role
+
 :telescope: Looking for new opportunities to improve my skills and expand my knowledge
 
 :computer: Interested in computer graphics, computer vision, AI and game development
